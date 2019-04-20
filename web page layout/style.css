@@ -1,0 +1,43 @@
+#Header{
+	height:200px;
+	width:100%;
+	background-color:#C70039;
+	top:0px;
+	position:absolute;
+	left:0px;
+	}
+
+#Leftsidebar{
+    height:400px;
+	width:20%;
+	background-color:#C7CAC6;
+	top:200px;
+	position:absolute;
+	left:0px;
+	}
+
+#Container{
+	height:420px;
+	width:100%;
+	background-color:#FFFFFF;
+	top:200px;
+	position:absolute;
+	left:250px;
+	}
+
+#RightSidebar{
+    height:400px;
+	width:20%;
+	background-color:#C7CAC6;
+	top:200px;
+	position:absolute;
+	right:0px;
+	}
+#Footer{
+	height:100px;
+	width:100%;
+	background-color:#383838;
+	top:600px;
+	position:absolute;
+	left:0px;
+	}
