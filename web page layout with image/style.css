@@ -1,0 +1,112 @@
+#Logo{
+	height:150px;
+	width:20%;
+	background-color:#581845;
+	top:0px;
+	position:absolute;
+	left:0px;
+	border:#900C3F solid;
+	background-image:url("image/13029799.jpg");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+
+	}
+#Banner{
+	height:150px;
+	width:80%;
+	background-color:#C70039;
+	top:0px;
+	position:absolute;
+	left:20%;
+	border:#900C3F solid;
+	background-image:url("image/ny.jpg");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	}
+#Menu{
+	height:50px;
+	width:100%;
+	background-color:#900C3F;
+	top:150px;
+	position:absolute;
+	left:0px;
+	border:#900C3F solid;
+	}
+#Leftsidebar{
+    height:500px;
+	width:20%;
+	background-color:#C7CAC6;
+	top:200px;
+	position:absolute;
+	left:0px;
+	border:#900C3F solid;
+
+	}
+#Container1{
+	height:250px;
+	width:30%;
+	background-color:#C70039;
+	top:200px;
+	position:absolute;
+	left:20%;
+	border:#900C3F solid;
+	background-image:url("image/919px-Juan_Mata_Chelsea_vs_AS-Roma_10AUG2013.jpg");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	}
+#Container2{
+	height:250px;
+	width:30%;
+	background-color:#C70039;
+	top:200px;
+	position:absolute;
+	left:50%;
+	border:#900C3F solid;
+	background-image:url("image/LOKESH_RAHUL_(15573141953).jpg");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	}
+#Container3{
+	height:250px;
+	width:30%;
+	background-color:#C70039;
+	top:450px;
+	position:absolute;
+	left:20%;
+	border:#900C3F solid;
+	background-image:url("image/21878812_342965192819729_7501284378169835520_n.jpg");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	}
+#Container4{
+	height:250px;
+	width:30%;
+	background-color:#C70039;
+	top:450px;
+	position:absolute;
+	left:50%;
+	border:#900C3F solid;
+	background-image:url("image/919px-Renee_Olstead_Hat.jpg");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	}
+#RightSidebar{
+    height:500px;
+	width:20%;
+	background-color:#C7CAC6;
+	top:200px;
+	position:absolute;
+	right:0px;
+	border:#900C3F solid;
+
+	}
+#Footer{
+	height:100px;
+	width:100%;
+	background-color:#383838;
+	top:700px;
+	position:absolute;
+	left:0px;
+	border:#900C3F solid;
+
+	}
