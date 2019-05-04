@@ -1,0 +1,273 @@
+#myphoto{
+	height:50%;
+	width:25%;
+	background-color:#B3B6B7;
+	top:0%;
+	position:absolute;
+	left:0%;
+	background-image:url("image/myphoto.jpg");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	margin:3% 3%;
+	}
+	
+#work{
+	height:90%;
+	width:67%;
+	background-color:#B3B6B7;
+	top:0px;
+	position:absolute;
+	left:28%;
+
+	margin:3% 3% 0% 2%;
+	}
+#wicon{
+	height:100%;
+	width:17%;
+	background-color:#F1C40F;
+	position:absolute;
+	top:0px;
+	left:0%;
+	}
+#wicon1{
+text-align:right;
+	}
+
+
+#wcontent1{
+	height:100%;
+	width:81%;
+	background-color:#D8E3E8;
+	top:0px;
+	position:absolute;
+	left:17%;
+	padding-left:1%;
+	padding-right:1%;
+	}
+#LSidebar{
+    height:30%;
+	width:25%;
+	background-color:#1C2833;
+	top:50%;
+	position:absolute;
+	left:0%;
+	background-size:100% 100%;
+	margin:3% 3%;
+	}
+#Lsideicon{
+	height:100%;
+	width:20%;
+	background-color:#F1C40F;
+	position:absolute;
+	top:0px;
+	left:0%;
+	}
+#Aicon{
+text-align:right;
+	}
+#Lsidecontent{
+	height:99%;
+	width:79%;
+	background-color:#CBCCD3;
+	top:0px;
+	position:absolute;
+	left:20%;
+	padding-left:1%
+	}
+#LSidebar1{
+    height:29%;
+	width:25%;
+	background-color:#1C2833;
+	top:80%;
+	position:absolute;
+	left:0%;
+	background-size:100% 100%;
+	margin:3% 3%;
+	}
+#Lsideicon1{
+	height:100%;
+	width:20%;
+	background-color:#F1C40F;
+	position:absolute;
+	top:0px;
+	left:0%;
+	}
+#Aicon1{
+text-align:right;
+	}
+#Lsidecontent1{
+	height:99%;
+	width:79%;
+	background-color:#CBCCD3;
+	top:0px;
+	position:absolute;
+	left:20%;
+	padding-left:1%
+	}
+#LSidebar2{
+    height:29%;
+	width:25%;
+	background-color:#1C2833;
+	top:109%;
+	position:absolute;
+	left:0%;
+	background-size:100% 100%;
+	margin:3% 3%;
+	}
+#Lsideicon2{
+	height:100%;
+	width:20%;
+	background-color:#F1C40F;
+	position:absolute;
+	top:0px;
+	left:0%;
+	}
+#Aicon2{
+text-align:right;
+	}
+#Lsidecontent2{
+	height:99%;
+	width:79%;
+	background-color:#CBCCD3;
+	top:0px;
+	position:absolute;
+	left:20%;
+	padding-left:1%
+	}
+#LSidebar3{
+    height:29%;
+	width:25%;
+	background-color:#1C2833;
+	top:138%;
+	position:absolute;
+	left:0%;
+	background-size:100% 100%;
+	margin:3% 3%;
+	}
+#Lsideicon3{
+	height:100%;
+	width:20%;
+	background-color:#F1C40F;
+	position:absolute;
+	top:0px;
+	left:0%;
+	}
+#Aicon3{
+text-align:right;
+	}
+#Lsidecontent3{
+	height:99%;
+	width:79%;
+	background-color:#CBCCD3;
+	top:0px;
+	position:absolute;
+	left:20%;
+	padding-left:1%
+	}
+#LSidebar4{
+    height:50%;
+	width:25%;
+	background-color:#1C2833;
+	top:167%;
+	position:absolute;
+	left:0%;
+	background-size:100% 100%;
+	margin:3% 3%;
+	}
+#Lsideicon4{
+	height:100%;
+	width:20%;
+	background-color:#F1C40F;
+	position:absolute;
+	top:0px;
+	left:0%;
+	}
+#Aicon4{
+text-align:right;
+	}
+#Lsidecontent4{
+	height:100%;
+	width:79%;
+	background-color:#CBCCD3;
+	top:0px;
+	position:absolute;
+	left:20%;
+	padding-left:1%
+	}
+
+		
+#education{
+	height:90%;
+	width:67%;
+	background-color:#D8E3E8;
+	top:93%;
+	position:absolute;
+	left:28%;
+
+	margin:3% 3% 0% 2%;
+	}
+#wiconn{
+	height:100%;
+	width:17%;
+	background-color:#F1C40F;
+	position:absolute;
+	top:0px;
+	left:0%;
+	}
+#wiconn1{
+text-align:right;
+	}
+
+
+#wcontent2{
+	height:100%;
+	width:81%;
+	background-color:#D8E3E8;
+	top:0px;
+	position:absolute;
+	left:17%;
+	padding-left:1%;
+	padding-right:1%;
+	}
+
+
+#interest{
+	height:30%;
+	width:67%;
+	background-color:#D8E3E8;
+	top:186%;
+	position:absolute;
+	left:28%;
+
+	margin:3% 3% 0% 2%;
+	}
+#wiconnn{
+	height:100%;
+	width:17%;
+	background-color:#F1C40F;
+	position:absolute;
+	top:0px;
+	left:0%;
+	}
+#wiconnn1{
+	text-align:right;
+	}
+
+
+#wcontent3{
+	height:100%;
+	width:81%;
+	background-color:#D8E3E8;
+	top:0px;
+	position:absolute;
+	left:17%;
+	padding-left:1%;
+	padding-right:1%;
+	}
+#wcontent3i{
+	
+	}
+#wcontent3i p{
+	text-align:center;
+	text-decoration:none;
+	}
