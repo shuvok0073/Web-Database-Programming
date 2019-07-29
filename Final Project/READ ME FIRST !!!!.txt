@@ -1,0 +1,12 @@
+
+
+                   ADMIN username = admin
+                         password = admin
+
+Result Showing :-
+Student Name : Adib Sarkar
+Student Id : 153402328
+Student Class: First(C) 
+ 
+
+Database Name: srms thn import database srms.sql
